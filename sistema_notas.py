@@ -46,3 +46,5 @@ while True:
     elif comando == '3':
         print('Encerando o sistema')
         break
+
+    # Pra mostrar pra meu primo como salva no github
